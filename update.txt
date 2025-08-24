@@ -7,3 +7,7 @@ Fixed minor bug in function
 Commit timestamp: Wed Aug 20 13:36:24 UTC 2025
 Added logging for debugging
 Commit timestamp: Wed Aug 20 17:29:24 UTC 2025
+Added helper function
+Updated configuration values
+Updated CSS styling
+Commit timestamp: Sun Aug 24 04:53:31 UTC 2025
